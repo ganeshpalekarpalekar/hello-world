@@ -1,2 +1,2 @@
 # hello-world
-Simple Hello World Program
+This is sample test.
